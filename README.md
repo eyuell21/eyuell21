@@ -1,6 +1,6 @@
 ## Hi, I'm Eyuel 
 
-I'm a student interested in software development and technology.
+Junior software developer | building projects.
 
 ### 🚀 Interests
 - Web development
