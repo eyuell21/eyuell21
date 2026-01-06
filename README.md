@@ -19,5 +19,6 @@ Junior software developer | building projects.
 - Small projects to improve my coding skills
 
 ### 📌 Featured Projects
-- full backend proect using node js, postgresql and other backend technologies. 
+- full backend proect using node js, postgresql and other backend technologies.
+  
 Check out the pinned repositories below.
