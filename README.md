@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Eyuel 
 
-<!--
-**eyuell21/eyuell21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student interested in software development and technology.
 
-Here are some ideas to get you started:
+### 🚀 Interests
+- Web development
+- Python, JavaScript, Ruby on Rails.
+- Learning new tools
+- Backend development
+- Core computer science knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Languages: JavaScript, Python, Ruby on Rails, HTML, CSS, 
+- Tools: Git, GitHub, VS Code
+
+### 🛠️ Currently working on
+- Ruby on Rails project
+- Small node js and postgresql project
+- Small projects to improve my coding skills
+
+### 📌 Featured Projects
+- full backend proect using node js, postgresql and other backend technologies. 
+Check out the pinned repositories below.
