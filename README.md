@@ -1,6 +1,4 @@
-## Hi, I'm Eyuel 
-
-Junior software developer | building projects.
+## software developer | building projects.
 
 ###  Interests
 - Web development
