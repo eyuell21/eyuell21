@@ -12,7 +12,6 @@
 - Tools: Git, GitHub, VS Code
 
 ###  Currently working on
-- Ruby on Rails project
 - Small node js and postgresql project
 - Small projects to improve my coding skills
 
